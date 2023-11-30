@@ -1,4 +1,4 @@
-# React Material-UI + Faker.js table example
+# React Material-UI + Faker.js table
 
 A table example with React Material-UI and Faker.js.
 
